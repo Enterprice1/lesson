@@ -6,3 +6,4 @@
 - [lesson6: UI组件](five-ui-unit.md)
 - [lesson7: JSX在React-Native中的应用](six-jsx-react-native-application.md)
 - [lesson8: 自己动手写组件](seven-write-assembly.md)
+- [lesson9: 自己动手写组件](check your knowledge.md)
